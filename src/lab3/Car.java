@@ -1,7 +1,5 @@
 package lab3;
 
-import lab3.Operacje;
-
 public class Car implements Operacje {
     private String marka;
     private String model;
